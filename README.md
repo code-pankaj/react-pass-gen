@@ -1,7 +1,3 @@
-Here’s a practical and professional `README.md` file tailored for your **React Password Generator App**:
-
----
-
 # 🔐 React Password Generator
 
 A simple, responsive password generator built with **React** and **Tailwind CSS**. It allows users to generate strong, customizable passwords with options to include numbers and symbols, and adjust the password length.
@@ -102,5 +98,3 @@ public/
 * Clean separation of concerns
 * Minimal dependencies
 * Mobile responsive UI
-
----
